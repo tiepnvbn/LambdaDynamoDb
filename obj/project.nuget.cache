@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "R+O8jF4OZZJg2GTWk/Y0bY6RxjJzmkG4BCv22yNFOb2a17o5MziL0SJ3oxg7EAWQIyYI9iLCMAc/IBL4vY8OrQ==",
+  "success": true,
+  "projectFilePath": "A:\\AWS\\Demo\\LambdaDynamoDb\\LambdaDynamoDb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\X1 G6\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.0\\amazon.lambda.apigatewayevents.2.4.0.nupkg.sha512",
+    "C:\\Users\\X1 G6\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\X1 G6\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.2.0\\amazon.lambda.serialization.systemtextjson.2.2.0.nupkg.sha512",
+    "C:\\Users\\X1 G6\\.nuget\\packages\\awssdk.core\\3.7.8.3\\awssdk.core.3.7.8.3.nupkg.sha512",
+    "C:\\Users\\X1 G6\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.3.4\\awssdk.dynamodbv2.3.7.3.4.nupkg.sha512",
+    "C:\\Users\\X1 G6\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

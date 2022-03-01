@@ -1,0 +1,10 @@
+A:\AWS\Demo\LambdaDynamoDb\bin\Release\netcoreapp3.1\publish\LambdaDynamoDb.dll
+A:\AWS\Demo\LambdaDynamoDb\bin\Release\netcoreapp3.1\publish\LambdaDynamoDb.deps.json
+A:\AWS\Demo\LambdaDynamoDb\bin\Release\netcoreapp3.1\publish\LambdaDynamoDb.runtimeconfig.json
+A:\AWS\Demo\LambdaDynamoDb\bin\Release\netcoreapp3.1\publish\LambdaDynamoDb.pdb
+A:\AWS\Demo\LambdaDynamoDb\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.APIGatewayEvents.dll
+A:\AWS\Demo\LambdaDynamoDb\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+A:\AWS\Demo\LambdaDynamoDb\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+A:\AWS\Demo\LambdaDynamoDb\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+A:\AWS\Demo\LambdaDynamoDb\bin\Release\netcoreapp3.1\publish\AWSSDK.DynamoDBv2.dll
+A:\AWS\Demo\LambdaDynamoDb\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
